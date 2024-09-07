@@ -28,7 +28,7 @@ https://www.docker.com/ja-jp/products/docker-desktop/
 https://code.visualstudio.com/Download
 
 
-### 3. Vscode拡張機能のインストールする。
+### 3. Vscode拡張機能のインストール
 Vsccodeのアクティビティーバーから、以下の拡張機能をインストールします。
 >1. Docker
 >2. Remote Development
